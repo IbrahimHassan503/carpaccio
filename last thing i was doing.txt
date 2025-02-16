@@ -1,0 +1,1 @@
+i was trying to stop selecting the sub items if their items are not selected but didn't continue
